@@ -3,24 +3,22 @@ public class Program
 {
     private static void Main (string[] args)
     {
-
-      int a =1;
+      const int a =1;
           Console.WriteLine("int: " +a);
-      long b =2;
-          Console.WriteLine("long: " +b);
-      float c =3;
+      const long b =2;
+          Console.WriteLine("long: " +b);   
+      const float c =3;
           Console.WriteLine("foat: " +c);
-      double d =4;
+      const double d =4;
           Console.WriteLine("double: " +d);
-      decimal e =5;
+      const decimal e =5;
           Console.WriteLine("decimal: " +e);
-      bool f =true;
+      const bool f =true;
           Console.WriteLine("bool: " +f);
-      char g ='g';
+      const char g ='g';
           Console.WriteLine("char: " +g);
-      string i ="dong trung hieu";
+      const string i ="dong trung hieu";
           Console.WriteLine("string: " +i);
 
-          
     }
 }
