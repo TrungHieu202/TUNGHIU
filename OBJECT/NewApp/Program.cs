@@ -2,23 +2,17 @@
 public class Program
 {
     private static void Main (string[] args)
-    {
-      const int a =1;
-          Console.WriteLine("int: " +a);
-      const long b =2;
-          Console.WriteLine("long: " +b);   
-      const float c =3;
-          Console.WriteLine("foat: " +c);
-      const double d =4;
-          Console.WriteLine("double: " +d);
-      const decimal e =5;
-          Console.WriteLine("decimal: " +e);
-      const bool f =true;
-          Console.WriteLine("bool: " +f);
-      const char g ='g';
-          Console.WriteLine("char: " +g);
-      const string i ="dong trung hieu";
-          Console.WriteLine("string: " +i);
+ {
+Console.WriteLine("Nhap 2 so can tinh: ");
+int a,b;
+System.Console.WriteLine("a = ");
+a = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("b = ");
+b = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("hieu cua hai so la: {0} - {1} = {2}",a,b,a-b);
+System.Console.WriteLine("tich cua hai so la: {0} * {1} = {2}",a,b,a*b);
+System.Console.WriteLine("thuong cua hai so la: {0} / {1} = {2}",a,b,a/b);
+System.Console.WriteLine("so du cua hai so la: {0} % {1} = {2}",a,b,( a - b * (a / b)));
 
-    }
+ }   
 }
