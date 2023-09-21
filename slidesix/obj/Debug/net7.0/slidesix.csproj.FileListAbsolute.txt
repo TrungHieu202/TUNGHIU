@@ -1,0 +1,14 @@
+E:\PTPMQL\slidesix\bin\Debug\net7.0\slidesix.exe
+E:\PTPMQL\slidesix\bin\Debug\net7.0\slidesix.deps.json
+E:\PTPMQL\slidesix\bin\Debug\net7.0\slidesix.runtimeconfig.json
+E:\PTPMQL\slidesix\bin\Debug\net7.0\slidesix.dll
+E:\PTPMQL\slidesix\bin\Debug\net7.0\slidesix.pdb
+E:\PTPMQL\slidesix\obj\Debug\net7.0\slidesix.GeneratedMSBuildEditorConfig.editorconfig
+E:\PTPMQL\slidesix\obj\Debug\net7.0\slidesix.AssemblyInfoInputs.cache
+E:\PTPMQL\slidesix\obj\Debug\net7.0\slidesix.AssemblyInfo.cs
+E:\PTPMQL\slidesix\obj\Debug\net7.0\slidesix.csproj.CoreCompileInputs.cache
+E:\PTPMQL\slidesix\obj\Debug\net7.0\slidesix.dll
+E:\PTPMQL\slidesix\obj\Debug\net7.0\refint\slidesix.dll
+E:\PTPMQL\slidesix\obj\Debug\net7.0\slidesix.pdb
+E:\PTPMQL\slidesix\obj\Debug\net7.0\slidesix.genruntimeconfig.cache
+E:\PTPMQL\slidesix\obj\Debug\net7.0\ref\slidesix.dll
