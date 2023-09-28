@@ -3,9 +3,9 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        Student std1 = new Student();
-        std1.EnterData();
-        std1.Display();
+        Fruit fr1 = new Fruit();
+        fr1.EnterData1();
+        fr1.Display1();
         
     }
 

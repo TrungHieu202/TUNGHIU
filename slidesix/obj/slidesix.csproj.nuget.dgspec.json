@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\PTPMQL\\slidesix\\slidesix.csproj": {}
+    "E:\\PTPMQL\\slidesix\\slidesix.csproj": {}
   },
   "projects": {
-    "e:\\PTPMQL\\slidesix\\slidesix.csproj": {
+    "E:\\PTPMQL\\slidesix\\slidesix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\PTPMQL\\slidesix\\slidesix.csproj",
+        "projectUniqueName": "E:\\PTPMQL\\slidesix\\slidesix.csproj",
         "projectName": "slidesix",
-        "projectPath": "e:\\PTPMQL\\slidesix\\slidesix.csproj",
+        "projectPath": "E:\\PTPMQL\\slidesix\\slidesix.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "e:\\PTPMQL\\slidesix\\obj\\",
+        "outputPath": "E:\\PTPMQL\\slidesix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
