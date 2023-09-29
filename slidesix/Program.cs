@@ -3,10 +3,16 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        Fruit fr1 = new Fruit();
-        fr1.EnterData1();
-        fr1.Display1();
-        
+    Student[]stdArray =new Student[2];
+    for(int i = 0; i < stdArray.Length; i++ )
+    {
+        Student std = new Student ();
+        System.Console.WriteLine("nhap phan tu thu " + i);
+    std.EnterData();
+    stdArray[i] = std;
     }
-
+    }
 }
+
+
+
