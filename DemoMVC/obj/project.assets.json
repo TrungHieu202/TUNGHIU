@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\PTPMQL\\slidesix\\slidesix.csproj",
-      "projectName": "slidesix",
-      "projectPath": "e:\\PTPMQL\\slidesix\\slidesix.csproj",
+      "projectUniqueName": "E:\\PTPMQL\\DemoMVC\\DemoMVC.csproj",
+      "projectName": "DemoMVC",
+      "projectPath": "E:\\PTPMQL\\DemoMVC\\DemoMVC.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "e:\\PTPMQL\\slidesix\\obj\\",
+      "outputPath": "E:\\PTPMQL\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
