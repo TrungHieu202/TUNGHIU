@@ -8,11 +8,11 @@ public class personController : Controller
         return View();
     }
     [HttpPost]
-     public IActionResult Index(string fname,float hesoluong,float phucap,int luongcoban)
+     public IActionResult Index(string personID,string Fullname)
     {
-        float tinhluong = luongcoban * hesoluong + phucap ;
-        string tl = fname+ "-" + tinhluong;
-        ViewBag.nhap = tl ;
+        string ps = personID + "-" + Fullname;
+        
+         ViewBag.capnhat =ps;
         return View();
         
     }
