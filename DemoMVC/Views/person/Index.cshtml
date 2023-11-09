@@ -7,9 +7,9 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="=Create">Create New</a>
+    <a asp-action="Create">Create New</a>
 </p>
-<table class="=" table">
+<table class="table">
     <thead>
         <tr>
             <th>
@@ -22,8 +22,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model)
-        {
+@foreach (var item in Model) {
             <tr>
                 <td>
                     @Html.DisplayFor(modelItem => item.FullName)
@@ -36,6 +35,6 @@
                     <a asp-action="Delete" asp-route-id="@item.PersonId">Delete</a>
                 </td>
             </tr>
-        }
+}
     </tbody>
 </table>
